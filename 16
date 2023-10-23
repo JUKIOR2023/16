@@ -1,0 +1,909 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ONE TORO 1 HD" tvg-logo="" group-title="03 AFICIONES",ONE TORO 1 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/f35a0d3a-3a4e-4c17-9d53-f67792d38073.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ONE TORO 2" tvg-logo="" group-title="03 AFICIONES",ONE TORO 2
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/67cebac3-11b9-4f3b-8436-25579b80a9cb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Mundo toro app" tvg-logo="" group-title="03 AFICIONES",Mundo toro app
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/7a0f53f7-838d-49d4-8f53-b15ccf19793d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS FHD" tvg-logo="" group-title="07 DEPORTES",M+ ELLAS FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/ba55385b-a76b-4354-a061-56bd1a7526cf.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS HD" tvg-logo="" group-title="07 DEPORTES",M+ ELLAS HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/eca58aba-89ef-4ce0-b956-0eaf4d305c97.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 FHD" tvg-logo="" group-title="07 DEPORTES",M+ GOLF 2 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/3f59c6b6-3645-46a9-bd28-0c9ed6d28eac.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF 2 HD" tvg-logo="" group-title="07 DEPORTES",M+ GOLF 2 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/28379a8f-c747-4829-9ab6-1d8659fdd90b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 1 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 1 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/8de1ddf3-6907-4f3f-abad-5c4c85a06fd9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 2 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 2 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/37964e36-8b25-465f-982b-532fc3bad91a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 3 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 3 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/24a2fafb-4760-4d94-88de-dd284cbfe4c1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 4 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 4 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/836bec4b-2262-41c5-a073-109256044822.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 5 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 5 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/75e62d6b-4e59-489a-9597-3a0db6f14fd7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 6 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 6 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6910cae8-bac8-442e-b3ad-d7479e3d862a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 7 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 7 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/403b2244-224e-4889-9af8-0c0339ee85bb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 8 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 8 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/c5a50955-dedd-4a13-87eb-0069228e128f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 9 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 9 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/b93550cc-674d-4c00-9250-beb12f33a3c0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 10 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 10 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/75d44994-c808-4328-bc78-d79c69319ae9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 11 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 11 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/403e3814-3ac0-47c4-bca2-336614ec5cae.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 12 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 12 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/c4bbf360-e055-4e54-8aeb-eff8d8419884.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 13 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 13 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/b17ab228-6c29-40f0-9be8-47591d5b02ba.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 14 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 14 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/93b7ff15-1b16-4117-8062-0558854d8b39.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 15 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 15 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/80462def-ac9c-48e0-802c-6c77fd35eb4f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 16 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 16 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/652d1255-d3b0-40cd-b812-20fd0b24ad47.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 17 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 17 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6174a3a1-5ace-4889-b1b4-1798b74b5713.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 18 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 18 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/869cc9cd-47bb-491e-a7e4-2ef4a5006690.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 19 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 19 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/d7903fdc-c5f0-43d9-a440-62bfaf3e60de.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 20 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 20 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/dffc842a-778e-437d-8624-e8e86e873ff6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 21 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 21 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/96b8cdf7-76fd-4748-914d-f7f0b7c4da51.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 22 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 22 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/71c221b7-4daa-4cc3-8e6a-fa566a604c05.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 23 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 23 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/8dbf93b4-e66a-4bed-be96-cf8317b0244a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 24 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 24 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/d9337ad7-d614-4c9c-87fb-7cd000a518bf.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FEF TV 25 FHD (Solo Eventos)" tvg-logo="" group-title="FEF TV",FEF TV 25 FHD (Solo Eventos)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1233631c-4171-4f3b-9d50-fbef727df0c5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M. Plus+ HD" tvg-logo="" group-title="Movistar Plus",M. Plus+ HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/7a130c88-a943-44e8-a383-d186bc42643b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M. Plus+ FHD" tvg-logo="" group-title="Movistar Plus",M. Plus+ FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/a43e02df-6b2e-4e19-87ea-a6856a5f03d5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M. Plus+ SD" tvg-logo="" group-title="Movistar Plus",M. Plus+ SD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/afb9ca5b-391f-448a-a3f8-008d076443d6.m3u
+#EXTINF:-1 tvg-id="M+ Cracks" tvg-name="M+ Cracks" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cracks.png" group-title="02 CINE + SERIES",M+ Cracks
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/a54f6cd3-58af-47e6-a426-0217c9b48aab.m3u
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 HORAS HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png" group-title="01 NACIONALES",24 HORAS HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/5e4c90ea-13cf-41b7-a409-149e40bcacca.m3u
+#EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-name="CANAL SUR ANDALUCIA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png" group-title="01 NACIONALES",CANAL SUR ANDALUCIA
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/df1266d3-258f-45c6-bf8e-a753e8bf6eab.m3u
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="La 1 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20HD.png" group-title="01 NACIONALES",La 1 SD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/7f07ad2c-7ba8-456a-9cda-8e1d131408c3.m3u
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="La 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20HD.png" group-title="01 NACIONALES",La 1 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/94d27b87-1b0d-4389-9b45-dfd2f192ff4c.m3u
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20HD.png" group-title="01 NACIONALES",LA 1 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/497f4fd2-a6e3-4ae8-bd6e-0dea8d8399d2.m3u
+#EXTINF:-1 tvg-id="La 2" tvg-name="La 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png" group-title="01 NACIONALES",La 2 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/550f7660-65b6-4ac1-8026-427a029cfe4b.m3u
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203%20HD.png" group-title="01 NACIONALES",ANTENA 3
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/31031d67-98c8-408e-81cd-4fbd8dfaaa43.m3u
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203%20HD.png" group-title="01 NACIONALES",ANTENA 3 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/7d3a64bc-9046-4b8a-8d25-3f7fe863de76.m3u
+#EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203%20HD.png" group-title="01 NACIONALES",ANTENA 3 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/0bc7de56-6906-466b-bca2-c943086849c4.m3u
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro%20HD.png" group-title="01 NACIONALES",CUATRO
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/d303079c-9bd4-45b7-af22-f0c9469bc3fd.m3u
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro%20HD.png" group-title="01 NACIONALES",CUATRO HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6a7c03a9-a213-4648-8a18-0ecebf88a3a8.m3u
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro%20HD.png" group-title="01 NACIONALES",CUATRO FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/08a64430-0283-4a5a-8d26-965e68357aeb.m3u
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco%20HD.png" group-title="01 NACIONALES",TELECINCO
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/62849817-edbb-41a4-9b72-646422d5aa89.m3u
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco%20HD.png" group-title="01 NACIONALES",TELECINCO HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4d026324-481c-4352-a130-4ef02bfd43fd.m3u
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco%20HD.png" group-title="01 NACIONALES",TELECINCO FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/42aa9f9e-1af4-4ccb-80ad-490a902b3244.m3u
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta%20HD.png" group-title="01 NACIONALES",LA SEXTA
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4c1f021c-d56f-4e2e-b40b-27a650f63664.m3u
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="La Sexta HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta%20HD.png" group-title="01 NACIONALES",La Sexta HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/958df34e-a858-4e2a-a2cc-a8e2140b14e1.m3u
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta%20HD.png" group-title="01 NACIONALES",LA SEXTA FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/53363c10-0a91-4061-adb3-f37259951710.m3u
+#EXTINF:-1 tvg-id="Nova" tvg-name="NOVA HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png" group-title="01 NACIONALES",NOVA HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/fdcbd6e0-95d8-47ee-8236-471c9770af6e.m3u
+#EXTINF:-1 tvg-id="Neox" tvg-name="NEOX" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png" group-title="01 NACIONALES",NEOX
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/2c87735f-e2ea-48a3-9296-7c871a2d0b18.m3u
+#EXTINF:-1 tvg-id="Aragón TV Internacional" tvg-name="ARAGON INT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV%20Internacional.png" group-title="01 NACIONALES",ARAGON INT
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e77bb9fb-a95f-426e-9ca8-0d3e9fa9170a.m3u
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo%20HD.png" group-title="01 NACIONALES",COSMO FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/7bf098ab-a212-490b-9f3b-8e7f41594bdb.m3u
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="COSMO" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo%20HD.png" group-title="01 NACIONALES",COSMO
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/3ef0f246-0c4d-4dca-9d1b-a8c1a917fa23.m3u
+#EXTINF:-1 tvg-id="Energy" tvg-name="ENERGY" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png" group-title="01 NACIONALES",ENERGY
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1d0ca806-d495-43af-a6a3-8d2084243e16.m3u
+#EXTINF:-1 tvg-id="Energy" tvg-name="ENERGY HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png" group-title="01 NACIONALES",ENERGY HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/224087d6-7285-41d8-975d-8c1fac7e3054.m3u
+#EXTINF:-1 tvg-id="Divinity" tvg-name="DIVINITY" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" group-title="01 NACIONALES",DIVINITY
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/98fb778d-6f76-4286-a770-3748e2547fbc.m3u
+#EXTINF:-1 tvg-id="Divinity" tvg-name="DIVINITY HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Divinity.png" group-title="01 NACIONALES",DIVINITY HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/87ec1716-17cf-4263-abbe-2266ee38d464.m3u
+#EXTINF:-1 tvg-id="Sundance TV" tvg-name="SUNDANCE" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png" group-title="01 NACIONALES",SUNDANCE
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1d970d69-bd45-4abc-813e-747605672079.m3u
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DMAX.png" group-title="01 NACIONALES",DMAX
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/2970c603-122d-4c8e-915c-10b1b473e474.m3u
+#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-name="FDF" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png" group-title="01 NACIONALES",FDF
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/5600c466-aa48-48a7-95b0-2210cec35946.m3u
+#EXTINF:-1 tvg-id="MTV España" tvg-name="MTV ESPANA" tvg-logo="https://i.imgur.com/DpZsknI.png" group-title="01 NACIONALES",MTV ESPANA
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/ce89a95b-9c89-4381-8cf9-240d74d4fc92.m3u
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="MEZZO LIVE HD" tvg-logo="https://i.imgur.com/Lw6pP91.png" group-title="01 NACIONALES",MEZZO LIVE HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/94325ac2-5494-436f-8d58-322b4d5b3a87.m3u
+#EXTINF:-1 tvg-id="Mezzo" tvg-name="MEZZO" tvg-logo="https://i.imgur.com/Lw6pP91.png" group-title="01 NACIONALES",MEZZO
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/c1c57c66-78fd-483f-8ef6-6882c9c499a2.m3u
+#EXTINF:-1 tvg-id="Clan" tvg-name="CLAN HD" tvg-logo="https://i.imgur.com/jSc0IaY.png" group-title="01 NACIONALES",CLAN HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/3bd6b995-2bc5-4607-9c61-13e56e0f58c2.m3u
+#EXTINF:-1 tvg-id="Clan" tvg-name="CLAN FHD" tvg-logo="https://i.imgur.com/jSc0IaY.png" group-title="01 NACIONALES",CLAN FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/74a0ab86-a4ad-44e1-b3c0-0dc6b5e934b1.m3u
+#EXTINF:-1 tvg-id="TVG - TV Galicia" tvg-name="TV GALICIA" tvg-logo="https://i.imgur.com/mS4nmvJ.png" group-title="01 NACIONALES",TV GALICIA
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/2fd24ce3-b169-4990-958b-13dc66616c75.m3u
+#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA" tvg-logo="https://i.imgur.com/QtFgoWg.png" group-title="01 NACIONALES",MEGA
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/06b19fdf-f6a4-4460-82ae-70b3a5715d2f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="POPULAR TV" tvg-logo="https://populartvcantabria.com/wp-content/uploads/2022/10/cropped-logo-popular-horizontal-300x125.png" group-title="01 NACIONALES",POPULAR TV
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/77c19af6-73e3-4efa-8dda-d406a4ae5e23.m3u
+#EXTINF:-1 tvg-id="Ten" tvg-name="TEN" tvg-logo="https://i.imgur.com/Od2ZKD1.png" group-title="01 NACIONALES",TEN
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/405ca21d-312b-4fea-ab4f-1aa058c7f361.m3u
+#EXTINF:-1 tvg-id="DKISS" tvg-name="DKISS" tvg-logo="https://i.imgur.com/SjjSYBM.png" group-title="01 NACIONALES",DKISS
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/108ab636-eca5-4b5f-b878-91486e2e91b5.m3u
+#EXTINF:-1 tvg-id="TV3CAT CAT" tvg-name="TV3 CATALAN" tvg-logo="https://i.imgur.com/C4ANWKG.png" group-title="01 NACIONALES",TV3 CATALAN
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/02175de5-ceca-4c6b-bda9-132f340f9742.m3u
+#EXTINF:-1 tvg-id="3 24" tvg-name="3/24" tvg-logo="https://i.imgur.com/CSSflgl.jpg" group-title="01 NACIONALES",3/24
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/abc55b3e-409b-4282-bfc1-926c1260ed70.m3u
+#EXTINF:-1 tvg-id="Levante TV" tvg-name="LEVANTE TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Levante%20TV.png" group-title="01 NACIONALES",LEVANTE TV
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6860acd7-8809-4b5a-bf2c-cab498a741eb.m3u
+#EXTINF:-1 tvg-id="7 TV Región Murcia" tvg-name="TV 7 MURCIA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/7%20TV%20Regi%C3%B3n%20Murcia.png" group-title="01 NACIONALES",TV 7 MURCIA
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/915dd56e-2e9a-40f3-94ed-e2e51d61fee7.m3u
+#EXTINF:-1 tvg-id="Canal Extremadura" tvg-name="EXTREMADURA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura%20Sat.png" group-title="01 NACIONALES",EXTREMADURA
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/340c56e7-7512-4399-8cf4-9c119112aca8.m3u
+#EXTINF:-1 tvg-id="La 8" tvg-name="LA 8 AVILA" tvg-logo="https://www.cyltv.es/img/la8Avila.svg" group-title="01 NACIONALES",LA 8 AVILA
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/31018ee0-2d87-4e02-b0fa-5d109f9f502d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MELLILA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Play_Melilla.svg/768px-Play_Melilla.svg.png" group-title="01 NACIONALES",MELLILA TV
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/295a6f1d-999b-4eb3-85c3-35128afa9849.m3u
+#EXTINF:-1 tvg-id="" tvg-name="MIJAS" tvg-logo="https://mijascomunicacion.com/web2/assets_new/img/favicons/safari-pinned-tab.svg" group-title="01 NACIONALES",MIJAS
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/fdbc0014-95cf-4063-b263-17290239722b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DISTRITO TV" tvg-logo="https://distritotv.es/wp-content/uploads/2021/03/LOGO-MODIFICADO-CRIS.png" group-title="01 NACIONALES",DISTRITO TV
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/9ba60cc2-c5fc-4b22-badc-cf89575d8314.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ALCARRIATV" tvg-logo="https://www.alcarria.tv/web2/wp-content/uploads/2018/04/logo_alcarria_tv_letras_blancas.png" group-title="01 NACIONALES",ALCARRIATV
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/43fa58b8-b906-4fb0-a4b3-eda1c2ce49a4.m3u
+#EXTINF:-1 tvg-id="Canal 33" tvg-name="CANAL  33" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%2033.png" group-title="01 NACIONALES",CANAL  33
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1d7411e9-e445-48f6-a4ec-e320da6df9c9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LOGOS TV KIDS" tvg-logo="https://logostv.es/storage/channels/logo-kids.png" group-title="01 NACIONALES",LOGOS TV KIDS
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/2bab6cb4-9a14-4385-93ee-ddf801887584.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LOGOS  TV" tvg-logo="https://logostv.es/storage/channels/logostv-canal.png" group-title="01 NACIONALES",LOGOS  TV
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/899502cf-732d-4bef-b92a-4bb57a95e97e.m3u
+#EXTINF:-1 tvg-id="TVGA Europa HD" tvg-name="TVG Europa" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVGA%20Europa%20HD.png" group-title="01 NACIONALES",TVG Europa
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e0263fc7-faba-4d1e-aff2-f61b276e597c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TVG Infantil" tvg-logo="" group-title="01 NACIONALES",TVG Infantil
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/020f2433-1ca8-4808-97d3-bf0aff16147d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TV Girona" tvg-logo="" group-title="01 NACIONALES",TV Girona
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/b9e8915e-0e5f-4f9e-88e1-3c5ca3ab3335.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TVG Musigal" tvg-logo="" group-title="01 NACIONALES",TVG Musigal
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/3f6d3ca3-e9ce-4502-9083-8aeae20b2616.m3u
+#EXTINF:-1 tvg-id="EuroNews Français" tvg-name="Euronews en Español" tvg-logo="" group-title="01 NACIONALES",Euronews en Español
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/5ce3cfc5-5735-44f9-ae19-b633393eb0da.m3u
+#EXTINF:-1 tvg-id="" tvg-name="TVG Cultural" tvg-logo="" group-title="01 NACIONALES",TVG Cultural
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/68fd77b3-6563-4e70-9866-06623e5626af.m3u
+#EXTINF:-1 tvg-id="" tvg-name="101TV Malaga" tvg-logo="" group-title="01 NACIONALES",101TV Malaga
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/16582364-6d4d-4073-9a37-ecb825345c65.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Bon Dia TV" tvg-logo="" group-title="01 NACIONALES",Bon Dia TV
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/d4151ac0-acd3-4490-bba5-690fd7849834.m3u
+#EXTINF:-1 tvg-id="Canal 4" tvg-name="Canal 4 Mancha Centro" tvg-logo="" group-title="01 NACIONALES",Canal 4 Mancha Centro
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/45f6c999-d423-48e0-b3e1-b69b4ba5bbaa.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Canal 25 TV" tvg-logo="" group-title="01 NACIONALES",Canal 25 TV
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/8f8c9fd6-3405-4592-8cb3-48d51f264035.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Planeta Kids" tvg-logo="" group-title="01 NACIONALES",Planeta Kids
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/01ce7e13-774e-43e2-b7bf-91a64d300089.m3u
+#EXTINF:-1 tvg-id="La 7" tvg-name="la7" tvg-logo="" group-title="01 NACIONALES",la7
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/d82462f2-0cb9-460d-b0e8-59af16a8bb8d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Costa DelSol TV" tvg-logo="" group-title="01 NACIONALES",Costa DelSol TV
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/b8fa85da-f734-4a15-8005-6c7e257eb4a7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COSTA TV" tvg-logo="" group-title="01 NACIONALES",CANAL COSTA TV
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/9195a51b-1b0c-4113-8427-df4eca2a0a30.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Onda Algeciras Televisión" tvg-logo="https://i.imgur.com/q3ee5p8.png" group-title="01 NACIONALES",Onda Algeciras Televisión
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/bc607316-0351-4a1b-8ad1-733ca3488b3b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Pequeradio" tvg-logo="" group-title="01 NACIONALES",Pequeradio
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/95088561-dd98-4c5d-8576-a66770dec402.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Cadena Elite" tvg-logo="" group-title="01 NACIONALES",Cadena Elite
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e37f8aef-b50e-4fd2-b6aa-5276c0ac83fc.m3u
+#EXTINF:-1 tvg-id="Telemadrid" tvg-name="Tele Madrid" tvg-logo="" group-title="01 NACIONALES",Tele Madrid
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6405d42b-4fee-4a9d-95b6-fc8aa191b3ad.m3u
+#EXTINF:-1 tvg-id="TV Canaria" tvg-name="TV  CANARIA HD" tvg-logo="" group-title="01 NACIONALES",TV  CANARIA HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/ac364428-1e79-4b01-94e2-06896e60a4df.m3u
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 HORAS SD" tvg-logo="https://i.imgur.com/R8ujNJa.png" group-title="01 NACIONALES",24 HORAS SD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/8601199b-cd5c-45dc-940b-c196fbf2e4cf.m3u
+#EXTINF:-1 tvg-id="La 2" tvg-name="LA 2 SD" tvg-logo="https://i.imgur.com/Ly4cIGF.png" group-title="01 NACIONALES",LA 2 SD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1a3d4324-c7a1-444a-9a8b-5fd23820a330.m3u
+#EXTINF:-1 tvg-id="Mega" tvg-name="MEGA FHD" tvg-logo="" group-title="01 NACIONALES",MEGA FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/49ede312-9de8-4531-b290-6922620d0466.m3u
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="24 HORAS FHD" tvg-logo="https://i.imgur.com/R8ujNJa.png" group-title="01 NACIONALES",24 HORAS FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/b73a791c-ba3d-4341-8742-b62095fdbe58.m3u
+#EXTINF:-1 tvg-id="ETB 1" tvg-name="ETB 1 HD" tvg-logo="" group-title="01 NACIONALES",ETB 1 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/ee162fea-5617-4caa-896c-719417d619c3.m3u
+#EXTINF:-1 tvg-id="ETB 2" tvg-name="ETB 2 HD" tvg-logo="" group-title="01 NACIONALES",ETB 2 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/bb09b8a7-8941-4b8c-ad2f-690353979c30.m3u
+#EXTINF:-1 tvg-id="Castilla la Mancha TV" tvg-name="CASTILLA LA MANCHA HD" tvg-logo="" group-title="01 NACIONALES",CASTILLA LA MANCHA HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6fd1e20f-81ac-4679-b14a-671674601d9e.m3u
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="#0 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20%230%20HD.png" group-title="02 CINE + SERIES",#0 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/3edf9646-0957-42d8-8c7d-e7657e915dca.m3u
+#EXTINF:-1 tvg-id="M+ #0 HD" tvg-name="#0  FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20%230%20HD.png" group-title="02 CINE + SERIES",#0  FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/05837f59-0092-4a2e-bace-87efad62afb9.m3u
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="M. ACCI©N HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n%20HD.png" group-title="02 CINE + SERIES",M. ACCI©N HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/330fb6ea-4c2d-4ab6-a77d-5bc4c17ecf7b.m3u
+#EXTINF:-1 tvg-id="M+ Acción HD" tvg-name="M. ACCION FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n%20HD.png" group-title="02 CINE + SERIES",M. ACCION FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6e91f070-771c-43bd-95f5-71963dcb1871.m3u
+#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="M. ESTRENOS HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos%20HD.png" group-title="02 CINE + SERIES",M. ESTRENOS HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/75d987a9-6871-40ba-b623-7e10ccde1712.m3u
+#EXTINF:-1 tvg-id="M+ Estrenos HD" tvg-name="M. ESTRENOS FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos%20HD.png" group-title="02 CINE + SERIES",M. ESTRENOS FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/8004c334-46d6-4a24-99c1-84c5ba4b141a.m3u
+#EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER TV HD" tvg-logo="" group-title="02 CINE + SERIES",WARNER TV HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/90e5c453-f537-463a-9168-0303d7363825.m3u
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="AXN MOVIES FHD" tvg-logo="" group-title="02 CINE + SERIES",AXN MOVIES FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e81af210-b414-4c7b-85b0-f1b08aeaf5b4.m3u
+#EXTINF:-1 tvg-id="AXN Movies HD" tvg-name="AXN MOVIES HD" tvg-logo="" group-title="02 CINE + SERIES",AXN MOVIES HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1875d2da-d3d1-4533-9b63-2ef3ab17a1b5.m3u
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="M. ORIGINALES  FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales%20HD.png" group-title="02 CINE + SERIES",M. ORIGINALES  FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/a421acf6-dfb5-4925-9863-4998a2d1f484.m3u
+#EXTINF:-1 tvg-id="M+ Originales HD" tvg-name="M. ORIGINALES HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales%20HD.png" group-title="02 CINE + SERIES",M. ORIGINALES HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/fb9fad31-54d5-4354-81f1-865b4a55ae4e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="SuperAgentes FHD" tvg-logo="" group-title="02 CINE + SERIES",SuperAgentes FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/54932dae-4d57-4176-9bec-680d83b18b05.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS 2" tvg-logo="" group-title="02 CINE + SERIES",M+ ESTRENOS 2
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/5ec09636-ffdc-4040-8e3c-0bd18aeb8155.m3u
+#EXTINF:-1 tvg-id="La Resistencia 24H" tvg-name="LA RESISTENCIA HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Resistencia%2024H.png" group-title="02 CINE + SERIES",LA RESISTENCIA HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4e3338d5-ac26-498e-80d5-e31eef67234f.m3u
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="HOLLYWOOD HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood%20HD.png" group-title="02 CINE + SERIES",HOLLYWOOD HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/bfd30d4e-d725-4cd9-83ef-74311cd4ebe3.m3u
+#EXTINF:-1 tvg-id="Canal Hollywood HD" tvg-name="HOLLYWOOD FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood%20HD.png" group-title="02 CINE + SERIES",HOLLYWOOD FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/f4028c2d-432d-4b8a-ae69-530a929547a9.m3u
+#EXTINF:-1 tvg-id="M+ Cine Español" tvg-name="M. CINE ESPANOL  HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" group-title="02 CINE + SERIES",M. CINE ESPANOL  HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/84aa9904-449f-4cb5-8fab-b59a171da32d.m3u
+#EXTINF:-1 tvg-id="M+ Series HD" tvg-name="M. SERIES FHD" tvg-logo="https://i.imgur.com/sHU7L6u.png" group-title="02 CINE + SERIES",M. SERIES FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/b81c5f8e-8b42-4b46-b1b3-567551f5888e.m3u
+#EXTINF:-1 tvg-id="M+ Series HD" tvg-name="M. SERIES HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Series%20HD.png" group-title="02 CINE + SERIES",M. SERIES HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/61552660-6bd0-4d64-bbdf-764de7c7c226.m3u
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="CALLE 13 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013%20HD.png" group-title="02 CINE + SERIES",CALLE 13 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/970b67bb-5950-403d-b6f8-dfe19d903538.m3u
+#EXTINF:-1 tvg-id="Calle 13 HD" tvg-name="CALLE 13 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013%20HD.png" group-title="02 CINE + SERIES",CALLE 13 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/0d6ca283-0e62-476e-bca9-8f34bf581410.m3u
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="M. DRAMA HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama%20HD.png" group-title="02 CINE + SERIES",M. DRAMA HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/57c04b52-a827-4e12-bb49-bd618000a7d0.m3u
+#EXTINF:-1 tvg-id="M+ Drama HD" tvg-name="M. DRAMA FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama%20HD.png" group-title="02 CINE + SERIES",M. DRAMA FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/d980c0a6-68cb-46e4-a466-1e338430de0d.m3u
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="M. COMEDIA HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia%20HD.png" group-title="02 CINE + SERIES",M. COMEDIA HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/ad89f7a8-e80d-49e1-b549-72b0fd7198c1.m3u
+#EXTINF:-1 tvg-id="M+ Comedia HD" tvg-name="M. COMEDIA FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia%20HD.png" group-title="02 CINE + SERIES",M. COMEDIA FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/b9916e67-5724-47ae-9595-059cbc22213f.m3u
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20HD.png" group-title="02 CINE + SERIES",AXN HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1c70e7eb-1a90-4c4c-bfd5-1d641b2e639a.m3u
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central%20HD.png" group-title="02 CINE + SERIES",COMEDY CENTRAL HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/94dede18-709c-47ed-8d01-7b881e07b8a0.m3u
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central%20HD.png" group-title="02 CINE + SERIES",COMEDY CENTRAL FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e602df72-d8ba-4fd0-827c-3bbbfbaa19c6.m3u
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20HD.png" group-title="02 CINE + SERIES",AXN FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/384a34e2-84c1-4d05-82f0-974a1793439b.m3u
+#EXTINF:-1 tvg-id="AXN White HD" tvg-name="AXN WHITE HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20White%20HD.png" group-title="02 CINE + SERIES",AXN WHITE HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6ee16357-3a40-4a4e-91c7-940227f89e08.m3u
+#EXTINF:-1 tvg-id="AXN White HD" tvg-name="AXN WHITE FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20White%20HD.png" group-title="02 CINE + SERIES",AXN WHITE FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/14cfba85-5ad3-4b1a-8f79-973343a5efe5.m3u
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy%20HD.png" group-title="02 CINE + SERIES",SYFY HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/cb0bcff7-0f92-4e6d-903b-468603af77a9.m3u
+#EXTINF:-1 tvg-id="SyFy HD" tvg-name="SYFY FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy%20HD.png" group-title="02 CINE + SERIES",SYFY FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4aa4e5ff-cf34-4ee0-a366-7fa2c2934edb.m3u
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20HD.png" group-title="02 CINE + SERIES",FOX HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/3a612180-796f-4ed8-ad6a-9e92761ed342.m3u
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20HD.png" group-title="02 CINE + SERIES",FOX FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/65a34844-72ec-48e4-bb91-49b120dee025.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FDF HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png" group-title="02 CINE + SERIES",FDF HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6646f6a3-90ee-4a73-ad2b-3ef85d36e16c.m3u
+#EXTINF:-1 tvg-id="Paramount Network" tvg-name="PARAMOUNT HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Paramount%20Network.png" group-title="02 CINE + SERIES",PARAMOUNT HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/3ffefd5b-4b38-40c3-9974-4152b5d1f305.m3u
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20HD.png" group-title="02 CINE + SERIES",TNT HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/c5ad7997-6df1-41bd-bba4-905f63858714.m3u
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20HD.png" group-title="02 CINE + SERIES",TNT FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/a22c1463-e9d6-4615-865b-24bb5e992c9b.m3u
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM%20HD.png" group-title="02 CINE + SERIES",TCM HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6c194940-3123-47df-801d-6baf837e8772.m3u
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TCM%20HD.png" group-title="02 CINE + SERIES",TCM FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/df2330f2-9b05-41f0-bb1f-3fa672524f28.m3u
+#EXTINF:-1 tvg-id="Classica HD" tvg-name="CLASSICA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Classica%20HD.png" group-title="02 CINE + SERIES",CLASSICA
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4fd62b11-2925-4f3b-b48d-4507885410d6.m3u
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20HD.png" group-title="02 CINE + SERIES",AMC FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/700989c2-da8c-4bf3-95ff-97f34e473970.m3u
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20HD.png" group-title="02 CINE + SERIES",AMC HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/3930f889-98ca-4479-ad75-10342a19a1b4.m3u
+#EXTINF:-1 tvg-id="M+ Series 2 HD" tvg-name="M. Series 2 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Series%202%20HD.png" group-title="02 CINE + SERIES",M. Series 2 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/08f383a0-2dce-4c7e-9d8f-ed798e9f4bdf.m3u
+#EXTINF:-1 tvg-id="M+ Series 2 HD" tvg-name="M Series 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Series%202%20HD.png" group-title="02 CINE + SERIES",M Series 2 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1def8605-2c33-47ef-a349-1fdb74c828eb.m3u
+#EXTINF:-1 tvg-id="Dreamworks HD" tvg-name="ES: M+ DREAMWORKS FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dreamworks%20HD.png" group-title="02 CINE + SERIES",ES: M+ DREAMWORKS FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/8500dff6-2cb4-4b30-9eda-c8d1d8398333.m3u
+#EXTINF:-1 tvg-id="Dreamworks HD" tvg-name="ES: M+ DREAMWORKS HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dreamworks%20HD.png" group-title="02 CINE + SERIES",ES: M+ DREAMWORKS HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/f8cfb8f0-6c3e-4761-89e8-7e050d520634.m3u
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="ES: MEZZO LIVE HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mezzo%20Live%20HD.png" group-title="02 CINE + SERIES",ES: MEZZO LIVE HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1a989bc3-4fe4-4512-b4c5-9e831cfb6b53.m3u
+#EXTINF:-1 tvg-id="Negocios TV" tvg-name="ES: M+ NEGOCIOS HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Negocios%20TV.png" group-title="02 CINE + SERIES",ES: M+ NEGOCIOS HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/f357f970-9f99-4e6c-814c-4091dc1d0200.m3u
+#EXTINF:-1 tvg-id="M+ Fest HD" tvg-name="ES: FEST HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Fest%20HD.png" group-title="02 CINE + SERIES",ES: FEST HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/a71c1cfc-56ca-4966-b605-216ce2593249.m3u
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="ES: BLAZE" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png" group-title="02 CINE + SERIES",ES: BLAZE
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/09558a4e-edaa-4fd7-be06-3c986445551e.m3u
+#EXTINF:-1 tvg-id="Be Mad" tvg-name="ES: BE MAD FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Be%20Mad.png" group-title="02 CINE + SERIES",ES: BE MAD FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/0b643f76-c548-4607-9647-44b561b9a025.m3u
+#EXTINF:-1 tvg-id="Be Mad" tvg-name="ES: BE MAD HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Be%20Mad.png" group-title="02 CINE + SERIES",ES: BE MAD HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/075dbc48-fd60-4e69-a6e5-a5a3bbdff1f8.m3u
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: EL TORO FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Toro%20TV.png" group-title="02 CINE + SERIES",ES: EL TORO FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/518d4292-4740-4054-956c-8b9ab1c1d307.m3u
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="ES: EL TORO HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Toro%20TV.png" group-title="02 CINE + SERIES",ES: EL TORO HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/2daa48d1-94ff-4b5a-b4ea-52b2b9b71650.m3u
+#EXTINF:-1 tvg-id="TRECE" tvg-name="ES: M+ TRECE HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRECE.png" group-title="02 CINE + SERIES",ES: M+ TRECE HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1e7013ec-e3fc-4f66-9006-4a7419513a5d.m3u
+#EXTINF:-1 tvg-id="TRECE" tvg-name="ES: M+ TRECE SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRECE.png" group-title="02 CINE + SERIES",ES: M+ TRECE SD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/5fa5b3dc-ba5c-4fc5-8d93-63217e64d516.m3u
+#EXTINF:-1 tvg-id="La Resistencia 24H" tvg-name="ES: M+ LA RESISTENCIA FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Resistencia%2024H.png" group-title="02 CINE + SERIES",ES: M+ LA RESISTENCIA FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1ac49d98-2be6-47f5-a521-f3e553d03d74.m3u
+#EXTINF:-1 tvg-id="XTRM" tvg-name="ES: XTRM FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" group-title="02 CINE + SERIES",ES: XTRM FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6f654d52-8d8c-4dca-a030-1888f857166d.m3u
+#EXTINF:-1 tvg-id="XTRM" tvg-name="ES: XTRM HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png" group-title="02 CINE + SERIES",ES: XTRM HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/9447903d-2ec7-4ac7-8688-a98836673d1b.m3u
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="ES: COSMOPOLITAN FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo%20HD.png" group-title="02 CINE + SERIES",ES: COSMOPOLITAN FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/2883a54a-ea3f-48fb-8cad-799556111749.m3u
+#EXTINF:-1 tvg-id="Cosmo HD" tvg-name="ES: COSMOPOLITAN HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo%20HD.png" group-title="02 CINE + SERIES",ES: COSMOPOLITAN HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/a46485bc-1368-4ba9-830f-c2afae14d827.m3u
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="ES: AMC CRIME HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" group-title="02 CINE + SERIES",ES: AMC CRIME HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/cbbfcbd5-0c16-488b-852a-f329d7efe697.m3u
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="ES: AMC CRIME SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" group-title="02 CINE + SERIES",ES: AMC CRIME SD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/baaccf0d-6bbc-492f-a747-c4902fbac5d2.m3u
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="ES: AMC BREAK FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png" group-title="02 CINE + SERIES",ES: AMC BREAK FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/ab790833-8ce6-496c-80d5-b7b182a7269c.m3u
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="ES: AMC BREAK HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png" group-title="02 CINE + SERIES",ES: AMC BREAK HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/a0bc1923-9103-4285-a81e-9287ee3b973d.m3u
+#EXTINF:-1 tvg-id="DARK" tvg-name="ES: DARK HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png" group-title="02 CINE + SERIES",ES: DARK HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4f505ecd-df69-4a1e-9b70-f4eb05e562d0.m3u
+#EXTINF:-1 tvg-id="Atreseries" tvg-name="ES: A3 SERIES HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atreseries.png" group-title="02 CINE + SERIES",ES: A3 SERIES HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/98b22310-b51e-4131-9658-fddf496aaf39.m3u
+#EXTINF:-1 tvg-id="BOM Cine" tvg-name="ES: BOM CINE FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" group-title="02 CINE + SERIES",ES: BOM CINE FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/25aa61e4-02ac-485e-97a0-d4197aa51411.m3u
+#EXTINF:-1 tvg-id="BOM Cine" tvg-name="ES: BOM CINE HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" group-title="02 CINE + SERIES",ES: BOM CINE HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/72adb1aa-7d73-446d-bea9-d187a03323ff.m3u
+#EXTINF:-1 tvg-id="LaLigaTV Bar HD" tvg-name="MOVISTAR SUSPENSE HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLigaTV%20Bar%20HD.png" group-title="02 CINE + SERIES",MOVISTAR SUSPENSE HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/dd2dfe21-f160-410b-9f06-c9280be38dab.m3u
+#EXTINF:-1 tvg-id="BOM Cine" tvg-name="ES: BOM CINE SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png" group-title="02 CINE + SERIES",ES: BOM CINE SD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/744f7037-a73c-4179-85e6-f09ed8eb23e9.m3u
+#EXTINF:-1 tvg-id="LaLigaTV Bar HD" tvg-name="MOVISTAR SUSPENSE" tvg-logo="" group-title="02 CINE + SERIES",MOVISTAR SUSPENSE
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/a481a107-e81d-4ea5-b3ac-8f0483044a84.m3u
+#EXTINF:-1 tvg-id="Mundotoro TV" tvg-name="MUNDO TORO TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mundotoro%20TV.png" group-title="03 AFICIONES",MUNDO TORO TV
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/ddb720ce-773c-42ab-b9ca-a3b005c6a35e.m3u
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca%20HD.png" group-title="03 AFICIONES",CAZA Y PESCA HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/62e110ba-8f76-4eba-b37b-2236db0ecf54.m3u
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-name="CAZA Y PESCA FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca%20HD.png" group-title="03 AFICIONES",CAZA Y PESCA FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/ed7844fb-e378-4e8e-a366-083a8575b5cc.m3u
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBERALIA TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20TV.png" group-title="03 AFICIONES",IBERALIA TV
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/b4d6ed51-899a-4279-b945-d0ee85e02c36.m3u
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBÉRALIA 100% CAZA FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20TV.png" group-title="03 AFICIONES",IBÉRALIA 100% CAZA FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/a8b63e80-c594-473e-abc6-443f7c341ee7.m3u
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-name="IBÉRALIA 100% PESCA FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20TV.png" group-title="03 AFICIONES",IBÉRALIA 100% PESCA FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/7e381af1-d7fc-4e40-8465-b83c97afe1a9.m3u
+#EXTINF:-1 tvg-id="Betis TV" tvg-name="BETIS TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betis%20TV.png" group-title="04 FUTBOL",BETIS TV
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/63c3a943-fcdf-45cf-97a1-c51f1a80783b.m3u
+#EXTINF:-1 tvg-id="SEVILLA FC Televisión" tvg-name="Sevilla FC TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sevilla%20FC%20Televisi%C3%B3n.png" group-title="04 FUTBOL",Sevilla FC TV
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/daf13b0b-ed0a-491d-94ad-72bf277b2d14.m3u
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL PLAY FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL%20PLAY.png" group-title="04 FUTBOL",GOL PLAY FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/8215f602-2dc7-4212-b84a-be17c70ea6fe.m3u
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-name="GOL PLAY HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL%20PLAY.png" group-title="04 FUTBOL",GOL PLAY HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/a2ce365e-c6fb-48ca-93ec-6c55e9daff9f.m3u
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="REAL  MADRID" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" group-title="04 FUTBOL",REAL  MADRID
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/94e2250a-c18e-4a86-a987-64c4fc7f9cad.m3u
+#EXTINF:-1 tvg-id="M+ LaLigaTV HD" tvg-name="LA LIGA TV SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" group-title="04 FUTBOL",LA LIGA TV SD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/2893aee5-b872-4bd6-98a3-9f049bfb85ed.m3u
+#EXTINF:-1 tvg-id="M+ LaLigaTV HD" tvg-name="LA LIGA  HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" group-title="04 FUTBOL",LA LIGA  HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/b4454493-eb17-4272-a224-3cc3fa497de1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" group-title="04 FUTBOL",LA LIGA FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/73a0f04e-3f92-4a31-bf37-63c5cfdd2d42.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Movistar Liga  TV ALTERNATIVA" tvg-logo="" group-title="04 FUTBOL",Movistar Liga  TV ALTERNATIVA
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/746f5f08-547e-4e33-aa2c-aecfc6dbdb99.m3u
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA 1 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="04 FUTBOL",DAZN LA LIGA 1 SD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/14209a66-a7c1-4cf6-bb0f-b73c93d54413.m3u
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="04 FUTBOL",DAZN LA LIGA 1 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/7d07828a-f149-4371-9aa5-57a833a1c7e2.m3u
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="DAZN LA LIGA 1 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%20HD.png" group-title="04 FUTBOL",DAZN LA LIGA 1 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/3cedd90b-13d1-4cbf-82d2-4051d8e822fc.m3u
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LA LIGA 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" group-title="04 FUTBOL",DAZN LA LIGA 2 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6ded86fe-8060-4435-8d06-9632452234f7.m3u
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LA LIGA 2 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202%20HD.png" group-title="04 FUTBOL",DAZN LA LIGA 2 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/0ac5fa48-1cbc-4ac8-8127-ecf32ac04dc5.m3u
+#EXTINF:-1 tvg-id="M+ LaLigaTV 2 HD" tvg-name="M LaLiga 2 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%202%20HD.png" group-title="04 FUTBOL",M LaLiga 2 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e934cc96-ef38-47c6-b32e-1d3aa6383262.m3u
+#EXTINF:-1 tvg-id="M+ LaLigaTV 3 HD" tvg-name="M LaLiga 3 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%203%20HD.png" group-title="04 FUTBOL",M LaLiga 3 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/162e61dc-ca78-487e-bb77-7e3f214e7079.m3u
+#EXTINF:-1 tvg-id="M+ LaLigaTV 4" tvg-name="M LaLiga 4 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="04 FUTBOL",M LaLiga 4 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/267f2be5-2fa2-484d-9e4d-c20afdda9131.m3u
+#EXTINF:-1 tvg-id="M+ LaLigaTV 5" tvg-name="M LaLiga 5 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG4.png" group-title="04 FUTBOL",M LaLiga 5 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/12bdfc83-cf79-4462-9038-cea0109a3772.m3u
+#EXTINF:-1 tvg-id="M+ LaLigaTV 6" tvg-name="M LaLiga 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG5.png" group-title="04 FUTBOL",M LaLiga 6
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/5c8c0781-bc9c-421a-8fea-12d4781b8cc5.m3u
+#EXTINF:-1 tvg-id="M+ LaLigaTV 3 HD" tvg-name="M LaLiga 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%203%20HD.png" group-title="04 FUTBOL",M LaLiga 3 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e020a1ef-300e-4a20-a29c-35a64ef6dd51.m3u
+#EXTINF:-1 tvg-id="M+ LaLigaTV 2 HD" tvg-name="M LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLigaTV%202%20HD.png" group-title="04 FUTBOL",M LaLiga 2 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/9a0ba240-e6b4-45a0-9613-378493896a76.m3u
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-name="LA LIGA HYPERMOTION TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" group-title="04 FUTBOL",LA LIGA HYPERMOTION TV HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/49acf0e3-9b6e-4f16-979a-7b90f04e5703.m3u
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV HD" tvg-name="LA LIGA HYPERMOTION TV FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%20HD.png" group-title="04 FUTBOL",LA LIGA HYPERMOTION TV FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/d9652275-bbd4-453e-a669-fe02d6eeb413.m3u
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV M2 HD" tvg-name="LA LIGA HYPERMOTION TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20SmartbankTV%20M2%20HD.png" group-title="04 FUTBOL",LA LIGA HYPERMOTION TV 2 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/25cc5ffb-9106-4d73-be8e-55cc0bf21129.m3u
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV M2 HD" tvg-name="LA LIGA HYPERMOTION TV 2 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20SmartbankTV%20M2%20HD.png" group-title="04 FUTBOL",LA LIGA HYPERMOTION TV 2 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/f72db5d6-7f36-4b4d-8aae-7357a0a781bd.m3u
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV M3 HD" tvg-name="LA LIGA HYPERMOTION M3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20SmartbankTV%20M3%20HD.png" group-title="04 FUTBOL",LA LIGA HYPERMOTION M3 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/9fdbf51c-0a07-4574-8b38-7245d38ff332.m3u
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV M3 HD" tvg-name="LA LIGA HYPERMOTION M3 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20SmartbankTV%20M3%20HD.png" group-title="04 FUTBOL",LA LIGA HYPERMOTION M3 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/751dc746-c39f-4ec2-90ad-377373e67ef8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA HYPERMOTION  4 HD" tvg-logo="" group-title="04 FUTBOL",LA LIGA HYPERMOTION  4 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/144c3d6b-83d4-4958-8176-5daa800b1170.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA HYPERMOTION  5 SD" tvg-logo="" group-title="04 FUTBOL",LA LIGA HYPERMOTION  5 SD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/b23c2173-e8eb-4a90-85c5-a248ebfce3ab.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA SMARTBANK 5 HD" tvg-logo="" group-title="04 FUTBOL",LA LIGA SMARTBANK 5 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/b0525185-a6c0-42d8-8727-10b15dd1cbe4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA HYPERMOTION  6 HD" tvg-logo="" group-title="04 FUTBOL",LA LIGA HYPERMOTION  6 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e0bfdf33-26b6-4053-96c3-d2f3a0b89c31.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA HYPERMOTION  7 HD" tvg-logo="" group-title="04 FUTBOL",LA LIGA HYPERMOTION  7 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/998df21f-5b06-48c1-bdab-7d591f2cc3f7.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA HYPERMOTION  8 HD" tvg-logo="" group-title="04 FUTBOL",LA LIGA HYPERMOTION  8 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6358778c-ddf5-49ae-b0b2-0f47ae52a16c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga 3 SD (ES)" tvg-logo="" group-title="04 FUTBOL",Dazn LaLiga 3 SD (ES)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/cd9a64c6-c187-4ca9-a6b6-66cde79e6f4a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga 4 SD (ES)" tvg-logo="" group-title="04 FUTBOL",Dazn LaLiga 4 SD (ES)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/7d24894e-1342-45d0-873a-628e62e00560.m3u
+#EXTINF:-1 tvg-id="" tvg-name="Dazn LaLiga 5 SD (ES)" tvg-logo="" group-title="04 FUTBOL",Dazn LaLiga 5 SD (ES)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/db247803-91a8-4c7d-8c4f-b7c7d571a60b.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M Liga de Campeones FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="05 CHAMPIONS LEAGUE",M Liga de Campeones FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/5706a939-29d5-4baf-a694-5c302e35e8c3.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="05 CHAMPIONS LEAGUE",M Liga de Campeones HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/5e78f7ae-54cc-4554-8584-0fd8725321d7.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202%20HD.png" group-title="05 CHAMPIONS LEAGUE",M Liga de Campeones 2 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/b49c47ef-eab7-4ce5-a177-08e06b58cece.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M Liga de Campeones 3 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203%20HD.png" group-title="05 CHAMPIONS LEAGUE",M Liga de Campeones 3 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4cf2db04-9918-4a1e-8378-6130f1da73fa.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203%20HD.png" group-title="05 CHAMPIONS LEAGUE",M Liga de Campeones 3 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/db446093-9b22-4123-9d20-d4ba7430185a.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M Liga de Campeones 4 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="05 CHAMPIONS LEAGUE",M Liga de Campeones 4 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/811ae54c-ac4f-445c-b5b7-ca90a2402d83.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M Liga de Campeones 5 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="05 CHAMPIONS LEAGUE",M Liga de Campeones 5 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/0e794774-e1aa-4ab5-81b7-d1b9f595b644.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="M Liga de Campeones 6 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="05 CHAMPIONS LEAGUE",M Liga de Campeones 6 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/eaa9b62b-1d92-4203-bc4d-9b1a5a1bdd1a.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M Liga de Campeones 7 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" group-title="05 CHAMPIONS LEAGUE",M Liga de Campeones 7 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/7b0d722b-ac6e-4e1c-9e6b-62e722ebabcb.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="M Liga de Campeones 8 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" group-title="05 CHAMPIONS LEAGUE",M Liga de Campeones 8 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/b03215c2-4982-42ba-9605-ddba34a2a3ad.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="M Liga de Campeones 2  FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2012.png" group-title="05 CHAMPIONS LEAGUE",M Liga de Campeones 2  FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/afcf24b7-f879-42c5-b1d3-c1b6b26ddb30.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M Liga de Campeones 5 " tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="05 CHAMPIONS LEAGUE",M Liga de Campeones 5 
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4ecc8e7c-23c3-4e87-be42-ca01dd0ecedb.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="M Liga de Campeones 6 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" group-title="05 CHAMPIONS LEAGUE",M Liga de Campeones 6 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4c4fd1eb-f051-4595-b5da-dd515d852f69.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="M Liga de Campeones 7 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" group-title="05 CHAMPIONS LEAGUE",M Liga de Campeones 7 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/dd2b3fed-ed1c-4a6b-af3d-d939aa327b54.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="M Liga de Campeones 8 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" group-title="05 CHAMPIONS LEAGUE",M Liga de Campeones 8 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4195c978-1e2b-47de-82cd-c47d6e29cfd9.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M Liga de Campeones 4 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="05 CHAMPIONS LEAGUE",M Liga de Campeones 4 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/d4b55a2d-c474-4f77-922f-e2dc9c971cb3.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-name="LIGA DE CAMPEONES 9 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%209.png" group-title="05 CHAMPIONS LEAGUE",LIGA DE CAMPEONES 9 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/b9973a6e-f45e-4ad8-a126-2a322f9fd303.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-name="LIGA DE CAMPEONES 9 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%209.png" group-title="05 CHAMPIONS LEAGUE",LIGA DE CAMPEONES 9 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/94d65d13-f14a-4063-8325-cea59f8bf917.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-name="LIGA DE CAMPEONES 10 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2010.png" group-title="05 CHAMPIONS LEAGUE",LIGA DE CAMPEONES 10 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/08337796-13a7-4c8c-bdb6-4a374428b99d.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-name="LIGA DE CAMPEONES 10 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2010.png" group-title="05 CHAMPIONS LEAGUE",LIGA DE CAMPEONES 10 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/c489cefc-2269-45b4-8535-762465d89410.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 11" tvg-name="LIGA DE CAMPEONES 11 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2011.png" group-title="05 CHAMPIONS LEAGUE",LIGA DE CAMPEONES 11 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1f8c84ca-de99-4fbe-8c28-2dc7b0d03d3f.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 11" tvg-name="LIGA DE CAMPEONES 11 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2011.png" group-title="05 CHAMPIONS LEAGUE",LIGA DE CAMPEONES 11 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/9eca5c1f-cdd7-42be-b38e-058bd7af0358.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 12" tvg-name="LIGA DE CAMPEONES 12 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2012.png" group-title="05 CHAMPIONS LEAGUE",LIGA DE CAMPEONES 12 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/53946830-8227-4446-8224-d22c5dca5bef.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 12" tvg-name="LIGA DE CAMPEONES 12 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2012.png" group-title="05 CHAMPIONS LEAGUE",LIGA DE CAMPEONES 12 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/5ffd8b73-08f7-4ca1-83ed-f83cd2281e2f.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 13" tvg-name="LIGA DE CAMPEONES 13 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png" group-title="05 CHAMPIONS LEAGUE",LIGA DE CAMPEONES 13 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/2fa0d55e-9b4b-43dc-91d6-fbe720be96ff.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 13" tvg-name="LIGA DE CAMPEONES 13 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png" group-title="05 CHAMPIONS LEAGUE",LIGA DE CAMPEONES 13 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/008275ae-4114-490f-a1da-f33006a19130.m3u
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="M Liga de Campeones SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" group-title="05 CHAMPIONS LEAGUE",M Liga de Campeones SD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6a291497-6570-4218-b597-a71696e4cd36.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 SD" tvg-logo="" group-title="06 DAZN + EVENTOS",DAZN F1 SD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/27e893af-aea9-4f9a-ae77-5472ec640ae5.m3u
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="M Dazn F1 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20HD.png" group-title="06 DAZN + EVENTOS",M Dazn F1 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1b415507-db82-4ae6-8f70-9b4c444ad7c5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD ENCODER A " tvg-logo="" group-title="06 DAZN + EVENTOS",DAZN F1 HD ENCODER A 
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/64b8f94a-410d-4398-8c5a-824466a285de.m3u
+#EXTINF:-1 tvg-id="" tvg-name="M Dazn F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20HD.png" group-title="06 DAZN + EVENTOS",M Dazn F1 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1cea1605-4478-418c-8f9c-6a3d40295486.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 FHD ENCODER B" tvg-logo="" group-title="06 DAZN + EVENTOS",DAZN F1 FHD ENCODER B
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4f3eefa8-1ea8-488f-9ffd-de0326782423.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1  OP 1" tvg-logo="" group-title="06 DAZN + EVENTOS",DAZN F1  OP 1
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/671b3a09-4d4e-4a54-b5a2-1bc9063e3f39.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 OP 2" tvg-logo="" group-title="06 DAZN + EVENTOS",DAZN F1 OP 2
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/3390aeb3-7427-4d8d-8cd3-12c6f1d61326.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 SD" tvg-logo="" group-title="06 DAZN + EVENTOS",DAZN 1 SD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/eb1b88f0-63db-4887-a0a1-7744e9ef93e3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png" group-title="06 DAZN + EVENTOS",DAZN 1 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/96bbb130-1e48-44a5-83de-1166ceddde47.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD ES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20HD.png" group-title="06 DAZN + EVENTOS",DAZN 1 HD ES
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/3b114fe2-6f6a-44dc-bbee-a10792d129ac.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD ENCODER B" tvg-logo="" group-title="06 DAZN + EVENTOS",DAZN 1 FHD ENCODER B
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e08e7062-9f3e-46c7-85f0-da2b19d71cda.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD ES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20HD.png" group-title="06 DAZN + EVENTOS",DAZN 2 FHD ES
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/54d260d6-5141-440e-8b00-9d4a0b0c9a7a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD ES" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20HD.png" group-title="06 DAZN + EVENTOS",DAZN 2 HD ES
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/5c2ce312-66b5-4cbe-9ac4-643f00eed33a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203%20HD.png" group-title="06 DAZN + EVENTOS",DAZN 3 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/06102f97-9be3-4e39-8b50-47edf4ba6a91.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203%20HD.png" group-title="06 DAZN + EVENTOS",DAZN 3 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/bb359573-dc3c-4208-bd71-93525b943fe1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png" group-title="06 DAZN + EVENTOS",DAZN 4 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e8b904dc-8da3-4124-be23-be532fbddb66.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204%20HD.png" group-title="06 DAZN + EVENTOS",DAZN 4 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/dfd54878-28f6-4aeb-a775-a9ac0f46d3a8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 1 HD (ES)" tvg-logo="" group-title="06 DAZN + EVENTOS",DAZN EVENTOS 1 HD (ES)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/a7d57aa0-14f5-4aae-aded-ddb8cb839a7a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 2 HD (ES)" tvg-logo="" group-title="06 DAZN + EVENTOS",DAZN EVENTOS 2 HD (ES)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/25da8ca7-52d4-42e2-98e0-b1873908fd27.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 3 HD (ES)" tvg-logo="" group-title="06 DAZN + EVENTOS",DAZN EVENTOS 3 HD (ES)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/09a6b676-9e8a-49d8-806a-fb19f3ff8590.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 4 HD (ES)" tvg-logo="" group-title="06 DAZN + EVENTOS",DAZN EVENTOS 4 HD (ES)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/181bf13c-cf9b-4b11-923d-021a436130a4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DAZN EVENTOS 5 HD (ES)" tvg-logo="" group-title="06 DAZN + EVENTOS",DAZN EVENTOS 5 HD (ES)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/8404ddb3-37f1-44ab-bb75-10d5b65b9783.m3u
+#EXTINF:-1 tvg-id="M+ #Vamos HD" tvg-name="VAMOS HD" tvg-logo="https://i.imgur.com/AVoE40R.png" group-title="07 DEPORTES",VAMOS HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e175159a-2f19-48f3-bb19-67cdd4008315.m3u
+#EXTINF:-1 tvg-id="M+ #Vamos HD" tvg-name="VAMOS FHD" tvg-logo="https://i.imgur.com/AVoE40R.png" group-title="07 DEPORTES",VAMOS FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/232714d1-f7a6-477e-9308-645aeb090343.m3u
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="DEPORTES  FHD" tvg-logo="https://i.imgur.com/kqqoMOz.png" group-title="07 DEPORTES",DEPORTES  FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/c55dd4b6-0e4d-4ccf-b59b-6771276686ed.m3u
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="GOLF HD" tvg-logo="https://i.imgur.com/66bIVFW.png" group-title="07 DEPORTES",GOLF HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/8bd2def0-5f88-49bc-ab44-e63b87ae3f2f.m3u
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="GOLF FHD" tvg-logo="https://i.imgur.com/66bIVFW.png" group-title="07 DEPORTES",GOLF FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/82d0f8c5-1fdb-4c5d-8c91-bd8982f58401.m3u
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="DEPORTES HD" tvg-logo="https://i.imgur.com/OC3pmKt.png" group-title="07 DEPORTES",DEPORTES HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4bdabbc5-e2a3-4247-a76e-bd3dc29b9107.m3u
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE FHD" tvg-logo="https://i.imgur.com/hlAPNmC.png" group-title="07 DEPORTES",TELEDEPORTE FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/cfdff8b2-c9e2-45ca-92f9-00594d512cfe.m3u
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE HD" tvg-logo="https://i.imgur.com/hlAPNmC.png" group-title="07 DEPORTES",TELEDEPORTE HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/331a789b-dd6d-41b7-b8d2-f593e357c210.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="M. DEPORTES 2 FHD" tvg-logo="https://i.imgur.com/TFmEqxQ.png" group-title="07 DEPORTES",M. DEPORTES 2 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1610a156-dd75-4f33-acd5-a0e040f01461.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="DEPORTES 2 HD" tvg-logo="https://i.imgur.com/OC3pmKt.png" group-title="07 DEPORTES",DEPORTES 2 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/0ea6a378-5fc8-4b58-be7d-2a4015a2275b.m3u
+#EXTINF:-1 tvg-id="Multideporte" tvg-name="MULTI DEPORTES HD" tvg-logo="https://i.imgur.com/kqqoMOz.png" group-title="07 DEPORTES",MULTI DEPORTES HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/c1bebd6e-5e49-41e2-914d-63797acdb229.m3u
+#EXTINF:-1 tvg-id="Red Bull TV GER" tvg-name="RED BULL TV HD" tvg-logo="" group-title="07 DEPORTES",RED BULL TV HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/a5b81735-9026-4317-9bf0-77006bc8af84.m3u
+#EXTINF:-1 tvg-id="Red Bull TV GER" tvg-name="RED BULL TV FHD" tvg-logo="" group-title="07 DEPORTES",RED BULL TV FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/aaba5e5d-b72f-4ca0-8b4e-5dde22e845c3.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="DEPORTES 3 HD" tvg-logo="" group-title="07 DEPORTES",DEPORTES 3 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1d2fa916-a474-4772-9fbc-5fdfbc900655.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="DEPORTES 3 FHD" tvg-logo="" group-title="07 DEPORTES",DEPORTES 3 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/c968ff3e-7a41-48da-9c9f-6660b7809caa.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="DEPORTES 4 HD" tvg-logo="" group-title="07 DEPORTES",DEPORTES 4 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4f030c6d-4a2e-42c8-b68a-be36c73126f6.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="DEPORTES 4 FHD" tvg-logo="" group-title="07 DEPORTES",DEPORTES 4 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/eea6aba2-6154-46fb-8920-f8a92630f464.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="DEPORTES 5 HD" tvg-logo="" group-title="07 DEPORTES",DEPORTES 5 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/10940ef6-90b0-4843-bf62-4185198f8ecf.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="DEPORTES 5 FHD" tvg-logo="" group-title="07 DEPORTES",DEPORTES 5 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/9e0de729-f49a-49db-bb2a-94997950a921.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="DEPORTES 6 HD" tvg-logo="" group-title="07 DEPORTES",DEPORTES 6 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/be0c99c7-f31d-4955-a0d9-af8d17f09dae.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-name="DEPORTES 6 FHD" tvg-logo="" group-title="07 DEPORTES",DEPORTES 6 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6f9321f0-e699-40ce-9cd3-6290a950389d.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="DEPORTES 7 HD" tvg-logo="" group-title="07 DEPORTES",DEPORTES 7 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1207b39b-e679-44a3-a37c-eaea00e1f824.m3u
+#EXTINF:-1 tvg-id="M+ Deportes 7" tvg-name="DEPORTES 7 FHD" tvg-logo="" group-title="07 DEPORTES",DEPORTES 7 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/8273f281-9878-484e-9b7f-e22bace1a975.m3u
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT EVENTOS 1" tvg-logo="" group-title="EUROSPORT PLAYER",EUROSPORT EVENTOS 1
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/7c027857-f030-49d6-9399-455897c3e955.m3u
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/tBzMZ5Y.png" group-title="EUROSPORT PLAYER",EUROSPORT 1 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/fbcb254b-8cdd-4949-9caf-cc12fece8098.m3u
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="EUROSPORT 1 FHD" tvg-logo="https://i.imgur.com/IGaAXkE.png" group-title="EUROSPORT PLAYER",EUROSPORT 1 FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/744ef68a-91c2-4c71-9770-ad1eec2e8e36.m3u
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="EUROSPORT 2 HD" tvg-logo="https://i.imgur.com/6DSpGMJ.png" group-title="EUROSPORT PLAYER",EUROSPORT 2 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/7091b835-935b-4617-88d1-4d6222ff409b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UFC | WWE Network ..." tvg-logo="https://i.imgur.com/G1T7QWF.png" group-title="UFC / BOXEO",UFC | WWE Network ...
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/96062af6-7fcf-4bf1-b4c5-6ca38882e1b2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UFC - Fight Channel  - BOX - PASS" tvg-logo="https://i.imgur.com/igU3D1L.png" group-title="UFC / BOXEO",UFC - Fight Channel  - BOX - PASS
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/f2a7c619-88c0-4719-83df-3d0306f65146.m3u
+#EXTINF:-1 tvg-id="" tvg-name="USA: UFC Fight Pass ." tvg-logo="https://i.imgur.com/WdN2xlq.png" group-title="UFC / BOXEO",USA: UFC Fight Pass .
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/d60b58c8-2793-41e2-a350-68f065738fa0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="USA - UFC FITE   // ● BOX" tvg-logo="https://i.imgur.com/ONssD4T.png" group-title="UFC / BOXEO",USA - UFC FITE   // ● BOX
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/d7ad68b4-a963-49f1-8da1-e56b27a2df35.m3u
+#EXTINF:-1 tvg-id="" tvg-name="USA :  MMATV // ●" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY-3fzVN_2oseV6LYeVVaVz1iA-kRyAhn_YSu7_uisQiZ-1lDTbdBLYLpe8vXCu5LleuOMDlKIHY7D0r9ruLIhzMKyXIQwxCsq-xEqwNzS9rqpll6GdZz5DRX_tMnfBLpXEzyikUNgi5h2NpZ5nbHDaHpgGVThte7_QJveaOwcqw00IHipkUx4j8fY/s1600/GRATIS%20MMATV.jpg" group-title="UFC / BOXEO",USA :  MMATV // ●
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/7bc00040-60d8-4287-8416-1cdf62189580.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UFC: THE FIGHT NETWORK / Box" tvg-logo="https://i.imgur.com/gCk88AO.png" group-title="UFC / BOXEO",UFC: THE FIGHT NETWORK / Box
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/158096ba-044a-4dc8-b59c-84e92954bb38.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 4 Latino" tvg-logo="https://1.bp.blogspot.com/-vSV4gemywH8/Xay_akC3pjI/AAAAAAAAAkk/QhiScGYRuK0gmoHsOkqUAy5v1AijHvCwgCLcBGAsYHQ/s200/9.png" group-title="UFC / BOXEO",ESPN 4 Latino
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/724abe1c-cbaf-401d-835f-f8c7e95c0ca5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UFC PASS EVENTOS" tvg-logo="https://i.imgur.com/Q19LZrf.png" group-title="UFC / BOXEO",UFC PASS EVENTOS
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/378a8633-dfd8-4a51-998d-500529538cec.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UFC : FOX SPORTS 2  LATINO" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="UFC / BOXEO",UFC : FOX SPORTS 2  LATINO
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/5319f75d-d9dd-4efc-ae95-a7f81636ae59.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM (UFC- BOX ) Ingles" tvg-logo="http://svtv.xyz:8000/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="UFC / BOXEO",FOX SPORTS PREMIUM (UFC- BOX ) Ingles
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/806296c9-3102-442a-8d0a-958d013e6582.m3u
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS PREMIUM (UFC-BOX)  Latino" tvg-logo="http://svtv.xyz:8000/images/5385bc7561abcaea5ba38b1abf7dab36.png" group-title="UFC / BOXEO",FOX SPORTS PREMIUM (UFC-BOX)  Latino
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/2966d3d0-3343-480a-928e-237c9ed7ce4d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="SuperAgentes HD" tvg-logo="" group-title="UFC PASS",SuperAgentes HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/0e1e668e-cef8-4f12-b1d7-2c623ed50fbc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UFC PASS EVENTS 001 (Funciona en evento)" tvg-logo="https://i.imgur.com/Q19LZrf.png" group-title="UFC PASS",UFC PASS EVENTS 001 (Funciona en evento)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/49507ca1-ce04-43a0-9bc1-f05fba939c33.m3u
+#EXTINF:-1 tvg-id="" tvg-name="UFC PASS EVENTS 002 (Funciona en evento)" tvg-logo="https://i.imgur.com/Q19LZrf.png" group-title="UFC PASS",UFC PASS EVENTS 002 (Funciona en evento)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/ca9b9061-86af-4d69-b8b8-15cb868efb8f.m3u
+#EXTINF:-1 tvg-id="Sport TV NBA POR" tvg-name="NBA 01: (Se actualiza minutos antes del evento)" tvg-logo="http://mirror.streamhubtv.me:8080/images/d4cb0e3b5f3f9c944825991cd7fae7cd.png" group-title="09 NBA PASS (SOLO EVENT)",NBA 01: (Se actualiza minutos antes del evento)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/30b2b266-398d-47c2-a4bd-76b9da9ca98c.m3u
+#EXTINF:-1 tvg-id="Sport TV NBA POR" tvg-name="NBA 02:  (Se actualiza minutos antes del evento)" tvg-logo="http://mirror.streamhubtv.me:8080/images/d4cb0e3b5f3f9c944825991cd7fae7cd.png" group-title="09 NBA PASS (SOLO EVENT)",NBA 02:  (Se actualiza minutos antes del evento)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/d27e32f2-a147-440f-96aa-331c42408b3f.m3u
+#EXTINF:-1 tvg-id="Sport TV NBA POR" tvg-name="NBA03:" tvg-logo="http://mirror.streamhubtv.me:8080/images/d4cb0e3b5f3f9c944825991cd7fae7cd.png" group-title="09 NBA PASS (SOLO EVENT)",NBA03:
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4d16c498-d395-456b-be94-1f9be48abfe7.m3u
+#EXTINF:-1 tvg-id="Sport TV NBA POR" tvg-name="NBA 04: (Funciona Solo en evento)" tvg-logo="http://mirror.streamhubtv.me:8080/images/d4cb0e3b5f3f9c944825991cd7fae7cd.png" group-title="09 NBA PASS (SOLO EVENT)",NBA 04: (Funciona Solo en evento)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/7669465f-fd0c-4640-84a7-2df316418f2b.m3u
+#EXTINF:-1 tvg-id="Sport TV NBA POR" tvg-name="NBA 05:" tvg-logo="" group-title="09 NBA PASS (SOLO EVENT)",NBA 05:
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1c509d7b-af1c-4ce2-b53c-c15a6bfc7a52.m3u
+#EXTINF:-1 tvg-id="Sport TV NBA POR" tvg-name="NBA 06:" tvg-logo="http://mirror.streamhubtv.me:8080/images/d4cb0e3b5f3f9c944825991cd7fae7cd.png" group-title="09 NBA PASS (SOLO EVENT)",NBA 06:
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/ad28a5d6-25a6-40bc-aea3-9c04c84ea9a8.m3u
+#EXTINF:-1 tvg-id="Sport TV NBA POR" tvg-name="NBA 07:" tvg-logo="http://mirror.streamhubtv.me:8080/images/d4cb0e3b5f3f9c944825991cd7fae7cd.png" group-title="09 NBA PASS (SOLO EVENT)",NBA 07:
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/58861052-25e1-4d92-98ea-71aa447a00b1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="NBA 08:" tvg-logo="http://mirror.streamhubtv.me:8080/images/d4cb0e3b5f3f9c944825991cd7fae7cd.png" group-title="09 NBA PASS (SOLO EVENT)",NBA 08:
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6c0322ca-9399-4eb2-b4e2-3e0c5c878536.m3u
+#EXTINF:-1 tvg-id="" tvg-name="NBA 09: (Funciona Solo en evento)" tvg-logo="http://mirror.streamhubtv.me:8080/images/d4cb0e3b5f3f9c944825991cd7fae7cd.png" group-title="09 NBA PASS (SOLO EVENT)",NBA 09: (Funciona Solo en evento)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/53817012-0f45-43b5-ba66-2f222bae7e7f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="NBA: 10" tvg-logo="" group-title="09 NBA PASS (SOLO EVENT)",NBA: 10
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/bc0d5965-41bf-4234-80f3-e0b5c9ae9876.m3u
+#EXTINF:-1 tvg-id="" tvg-name="NBA 11:" tvg-logo="https://static.epg.best/us/NBALeaguePass1.us.png" group-title="09 NBA PASS (SOLO EVENT)",NBA 11:
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6817b7f3-6439-4477-8953-98fa06e62754.m3u
+#EXTINF:-1 tvg-id="" tvg-name="NBA 12:" tvg-logo="https://static.epg.best/us/NBALeaguePass1.us.png" group-title="09 NBA PASS (SOLO EVENT)",NBA 12:
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/79d8f709-e406-42aa-89ba-e3825ca7623c.m3u
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC  FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic%20HD.png" group-title="10  DOCUMENTALES",NATIONAL GEOGRAPHIC  FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1bc45299-5457-4f03-bfdc-286ed716603b.m3u
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild%20HD.png" group-title="10  DOCUMENTALES",NATIONAL GEOGRAPHIC WILD FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/f7140b76-9838-4a27-8036-cb8318935d67.m3u
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" group-title="10  DOCUMENTALES",DISCOVERY CHANNEL
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/de7ee101-7515-4405-ada3-f9b01572ef68.m3u
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="CRIMEN+INVESTIGACION" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" group-title="10  DOCUMENTALES",CRIMEN+INVESTIGACION
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/ed523d97-d12e-415f-a081-c9aba9b384d2.m3u
+#EXTINF:-1 tvg-id="Odisea" tvg-name="CANAL ODISEA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png" group-title="10  DOCUMENTALES",CANAL ODISEA
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/c3fc43d6-76cc-4eec-bca9-0bb882dd9f38.m3u
+#EXTINF:-1 tvg-id="Decasa" tvg-name="CANAL DECASA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png" group-title="10  DOCUMENTALES",CANAL DECASA
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e63edbb7-41e6-4c3a-8d69-5b9ad99ceba6.m3u
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="CANAL COCINA HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" group-title="10  DOCUMENTALES",CANAL COCINA HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6d7833f5-88c1-4b90-a6c3-0c863ea564c1.m3u
+#EXTINF:-1 tvg-id="Historia" tvg-name="HISTORIA" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" group-title="10  DOCUMENTALES",HISTORIA
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/f492f7e4-40c6-4a6e-ba4b-71b4058c3129.m3u
+#EXTINF:-1 tvg-id="National Geographic HD" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/National%20Geographic%20HD.png" group-title="10  DOCUMENTALES",NATIONAL GEOGRAPHIC HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/7d81426b-a87c-4c83-9b7f-670fd6b9189e.m3u
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nat%20Geo%20Wild%20HD.png" group-title="10  DOCUMENTALES",NATIONAL GEOGRAPHIC WILD HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4435f8e4-0590-4a64-a4d5-58f4e9161ff5.m3u
+#EXTINF:-1 tvg-id="Discovery" tvg-name="DISCOVERY CHANNEL FHD 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" group-title="10  DOCUMENTALES",DISCOVERY CHANNEL FHD 2
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4a8fc37e-5ae9-42c5-acaf-4bcd224398b9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://eu1-prod-images.disco-api.com/2021/10/20/b1b73812-b82d-4938-aa47-dbd519b96587.png?bf=0&f=png&p=true&q=60&w=450" group-title="10  DOCUMENTALES",DISCOVERY TURBO
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1785f576-8994-4019-a956-924a0df33c88.m3u
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://i.imgur.com/G9Bld7z.png" group-title="11 INFANTIL",DISNEY CHANNEL HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/d4eba0c9-d689-42dd-9965-323168e79306.m3u
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL FHD" tvg-logo="https://i.imgur.com/rMCxn09.png" group-title="11 INFANTIL",DISNEY CHANNEL FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/dc81dc8f-e640-4a55-ac82-c52a2084dec6.m3u
+#EXTINF:-1 tvg-id="Nick JR" tvg-name="NICK JUNIOR HD" tvg-logo="https://i.imgur.com/3JILwcv.png" group-title="11 INFANTIL",NICK JUNIOR HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/a2474147-2acf-4ca9-b5dc-2ed5499b7bd4.m3u
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="NICKELODEON HD" tvg-logo="https://i.imgur.com/ZS3OrTn.png" group-title="11 INFANTIL",NICKELODEON HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/a275591f-77a6-453b-9eb8-d0b1af04f81c.m3u
+#EXTINF:-1 tvg-id="Nickelodeon HD" tvg-name="NICKELODEON FHD" tvg-logo="https://i.imgur.com/piS5Ebk.png" group-title="11 INFANTIL",NICKELODEON FHD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/d5e27f36-7607-448c-acf7-45b7817a105c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA" tvg-logo="https://i.imgur.com/ToTlGBj.png" group-title="11 INFANTIL",CANAL PANDA
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/876d03ed-5eb2-46fc-b3ea-49e34db700b5.m3u
+#EXTINF:-1 tvg-id="Boing" tvg-name="BOING" tvg-logo="https://i.imgur.com/bmeN6EL.png" group-title="11 INFANTIL",BOING
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/d77f42e2-256e-4317-95c1-799827aa60d7.m3u
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="BABY" tvg-logo="https://i.imgur.com/GOxR9oe.png" group-title="11 INFANTIL",BABY
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e2b7e967-74cf-4ca8-b4f4-1263bf2a095c.m3u
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="DISNEY  JUNIOR" tvg-logo="https://i.imgur.com/o2jiOL7.png" group-title="11 INFANTIL",DISNEY  JUNIOR
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/ba86442f-aaad-4d65-9de5-59199abf5610.m3u
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="ES: MTV 00 HD" tvg-logo="" group-title="12 MUSICA",ES: MTV 00 HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/245b928a-637d-4ffe-851c-5d696ab6052b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  SUR: ESPN" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="LIGAS SUDAMERICA",LAT:/  SUR: ESPN
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/93985ad0-7cab-43ef-ac82-0b891c41d97e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/ ESPN 2  HD  SUR" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="LIGAS SUDAMERICA",LAT:/ ESPN 2  HD  SUR
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/3553fa3d-6fa4-4015-b850-804b585f9142.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/ ESPN 3 ARG HD ●" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="LIGAS SUDAMERICA",LAT:/ ESPN 3 ARG HD ●
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/fe94e2cd-23fd-4201-aea3-cfceb1099e21.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  ESPN 4 +Plus Sur  ARG● @" tvg-logo="https://1.bp.blogspot.com/-vSV4gemywH8/Xay_akC3pjI/AAAAAAAAAkk/QhiScGYRuK0gmoHsOkqUAy5v1AijHvCwgCLcBGAsYHQ/s200/9.png" group-title="LIGAS SUDAMERICA",LAT:/  ESPN 4 +Plus Sur  ARG● @
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/87571246-8447-4abc-a2f7-e526e7ec47f5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  ESPN Extra HD ●  + ARG @" tvg-logo="https://i.imgur.com/7qE0hoi.png" group-title="LIGAS SUDAMERICA",LAT:/  ESPN Extra HD ●  + ARG @
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/bd4409f0-ad91-47d8-ab15-3c790a5f7ede.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  BEST CABLE SPORT" tvg-logo="https://1.bp.blogspot.com/-q3LsPocPUvA/Xajpuil_n6I/AAAAAAAAASo/pOK1mbX7lnA3mbqN-qqdVSNbx6ea33PEgCLcBGAsYHQ/s200/15.png" group-title="LIGAS SUDAMERICA",LAT:/  BEST CABLE SPORT
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4eb4e83e-6880-471e-a9da-079685a978d5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  ESPN 1 MX● @" tvg-logo="https://immaa.xyz/MXespppn1.png" group-title="LIGAS SUDAMERICA",LAT:/  ESPN 1 MX● @
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/aad15838-1a4b-49fd-9ad3-b19e62c12b9c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  ESPN 2 MX ● @" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="LIGAS SUDAMERICA",LAT:/  ESPN 2 MX ● @
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/f4acc56e-0764-4363-98bf-dc3c2251962d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/ Espn 3 MX ●" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="LIGAS SUDAMERICA",LAT:/ Espn 3 MX ●
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/55a64513-3ee1-447c-ba4f-d4a31653e6d1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  Espn Extra  +  MX ●" tvg-logo="https://i.imgur.com/JfejWu0.png" group-title="LIGAS SUDAMERICA",LAT:/  Espn Extra  +  MX ●
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/5cf8ad8f-2bd6-4e64-adac-9aafdf39d4d5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  Fox Sports 1 MX ESPN4 ● @" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="LIGAS SUDAMERICA",LAT:/  Fox Sports 1 MX ESPN4 ● @
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e7669e5a-cd40-48bc-88c8-522d1348edb1.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/ Fox Sports 2 MX ● @" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="LIGAS SUDAMERICA",LAT:/ Fox Sports 2 MX ● @
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/acb45c68-b802-491b-afb3-d71bb7bba78b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  Fox Sports 3 MX ● @" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="LIGAS SUDAMERICA",LAT:/  Fox Sports 3 MX ● @
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/54d61bc4-6980-4fe4-8f5a-75a9516c283e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/ Sky Sports MX" tvg-logo="https://1.bp.blogspot.com/-RLh5FLdJhrY/X2j2zkoZV1I/AAAAAAAABZA/CSpzrOeYoAcKxcdbPgNAFsSXhaeirAD3wCLcBGAsYHQ/w200-h200/SKY.png" group-title="LIGAS SUDAMERICA",LAT:/ Sky Sports MX
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4a8ba21f-6abb-4e3c-a250-7875db15ccea.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  TNT Sports 1 HD ● ARG @" tvg-logo="https://i.imgur.com/HuNPIYU.png" group-title="LIGAS SUDAMERICA",LAT:/  TNT Sports 1 HD ● ARG @
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e698b57d-5349-4b34-a5e1-b8cd6514c9b6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  TNT Sports 1 ARG SD @" tvg-logo="https://1.bp.blogspot.com/-NlVUFpRAN1I/X2QIL1NCoaI/AAAAAAAABW8/YUkz7Y0eSY8nXv8XwY88nBSfgcltHwZ2QCLcBGAsYHQ/w200-h200/39%2BTNT%2BSport.png" group-title="LIGAS SUDAMERICA",LAT:/  TNT Sports 1 ARG SD @
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/25160a33-5620-4217-9134-d65c199871bc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  Fox Sports 1 ARG HD ●" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="LIGAS SUDAMERICA",LAT:/  Fox Sports 1 ARG HD ●
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/71ad8571-ba41-48b1-8c50-e6e830e2ea14.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  Fox Sports 3 SUR HD" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="LIGAS SUDAMERICA",LAT:/  Fox Sports 3 SUR HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/23a84f2c-11e3-4440-abcf-82646226cb9d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  Claro Sports Latinoam.  ●  @" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" group-title="LIGAS SUDAMERICA",LAT:/  Claro Sports Latinoam.  ●  @
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4aaf9c83-29d8-41e0-b450-cb15aca9f173.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  Claro Sports Latinoam. HD" tvg-logo="https://i.imgur.com/eSOFl2V.png" group-title="LIGAS SUDAMERICA",LAT:/  Claro Sports Latinoam. HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/58f705d2-d545-44e8-a350-5b116587fddf.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  TyC Sports Intern. ●" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png" group-title="LIGAS SUDAMERICA",LAT:/  TyC Sports Intern. ●
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/c520387d-79c7-44a5-8ee7-b47851ce13ec.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  TyC Sports Local  ● @" tvg-logo="https://immaa.xyz/ARGttyccc.png" group-title="LIGAS SUDAMERICA",LAT:/  TyC Sports Local  ● @
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/fc05cd05-d9c2-49c5-ae24-2ce0489b336a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  Directv Sports 1 CHIL HD ●" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="LIGAS SUDAMERICA",LAT:/  Directv Sports 1 CHIL HD ●
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/de79b5a9-9c90-4253-ac80-a4146069e6ef.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  Directv Sports 2 CH HD ●" tvg-logo="https://1.bp.blogspot.com/-f5u2OnKyA8A/XazFPWIst9I/AAAAAAAAAlU/H15BTBiKOu4UhFg3Js1-NMLwNcx_HCC9QCLcBGAsYHQ/s200/20.png" group-title="LIGAS SUDAMERICA",LAT:/  Directv Sports 2 CH HD ●
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/548d30f1-9da3-4171-9cb4-b53f6684ef4b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  Chi: CDO Basico" tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png" group-title="LIGAS SUDAMERICA",LAT:/  Chi: CDO Basico
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/02cf71bd-1187-4675-bd9b-2073bb2b95b6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  Chi: CDO Premium HD" tvg-logo="https://1.bp.blogspot.com/-HEq9Fr6haPg/XaoHsfkDTPI/AAAAAAAAAUs/6FaGhc-wdVkg7m4PVBuIf9Vxyhgk3PfyQCLcBGAsYHQ/s200/21.png" group-title="LIGAS SUDAMERICA",LAT:/  Chi: CDO Premium HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/8a534d1b-2375-4431-9967-79ea46c3bbd2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/ Estadio TNT Sports CL HD" tvg-logo="https://1.bp.blogspot.com/-NlVUFpRAN1I/X2QIL1NCoaI/AAAAAAAABW8/YUkz7Y0eSY8nXv8XwY88nBSfgcltHwZ2QCLcBGAsYHQ/w200-h200/39%2BTNT%2BSport.png" group-title="LIGAS SUDAMERICA",LAT:/ Estadio TNT Sports CL HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/3355758b-3f77-4210-b594-d2bf8d681211.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/ TUDN  MX ● @" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png" group-title="LIGAS SUDAMERICA",LAT:/ TUDN  MX ● @
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/132b6123-7b85-4da1-9619-b3147004a4b3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  EC: El Canal del Futbol HD" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png" group-title="LIGAS SUDAMERICA",LAT:/  EC: El Canal del Futbol HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/24c694bd-085c-4826-b173-2b213167a5b3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  EC: El Canal del Futbol SD" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png" group-title="LIGAS SUDAMERICA",LAT:/  EC: El Canal del Futbol SD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/9312e51d-3d5e-433d-99a8-662090c66604.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  EC: GolTV HD" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png" group-title="LIGAS SUDAMERICA",LAT:/  EC: GolTV HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/d2ea1959-f582-4ba8-9736-79f300c8cfbb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  EC: Gol TV SD" tvg-logo="https://1.bp.blogspot.com/-sL_iUqpF9FY/XjcCN8kUF6I/AAAAAAAABBc/fhjSKdz8wsY3zO3LqhgW3aE1eAD_6G1SgCLcBGAsYHQ/s200/2.png" group-title="LIGAS SUDAMERICA",LAT:/  EC: Gol TV SD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e0b51330-7810-4a6c-8ec9-47775a296428.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  EC: Directv Ecuador" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="LIGAS SUDAMERICA",LAT:/  EC: Directv Ecuador
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/88ce49e4-1aa4-444f-bb2b-8e749d890d19.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  Directv Sports 1 CO ●" tvg-logo="https://immaa.xyz/COLddrtvss1.png" group-title="LIGAS SUDAMERICA",LAT:/  Directv Sports 1 CO ●
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/b57b5710-eb42-4aba-ba75-83929638eab8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  Directv Sports 2  CO●" tvg-logo="https://i.imgur.com/Acn8VCa.png" group-title="LIGAS SUDAMERICA",LAT:/  Directv Sports 2  CO●
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/96398acd-7a4f-4497-9f72-42e0252b5d7a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  Directv Sports Plus +  COL ●" tvg-logo="https://i.imgur.com/KMje7dP.png" group-title="LIGAS SUDAMERICA",LAT:/  Directv Sports Plus +  COL ●
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4b66e16a-0189-4ac0-94c1-cdfe20426024.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  UY: Directv Sports HD" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="LIGAS SUDAMERICA",LAT:/  UY: Directv Sports HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/fe17218b-fce5-437e-a2ae-ac028e87bdc3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  Directv Sports 2 PE" tvg-logo="https://1.bp.blogspot.com/-f5u2OnKyA8A/XazFPWIst9I/AAAAAAAAAlU/H15BTBiKOu4UhFg3Js1-NMLwNcx_HCC9QCLcBGAsYHQ/s200/20.png" group-title="LIGAS SUDAMERICA",LAT:/  Directv Sports 2 PE
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/c6008384-7b1c-481d-8d10-625a1163ace0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  Directv Sports +  PER●" tvg-logo="https://1.bp.blogspot.com/-WZoevRCibrQ/XazFPI2G7nI/AAAAAAAAAlQ/Tm2GHOyjZuIjYxYN8ynbjF34iTCRQZzSQCLcBGAsYHQ/s200/18.png" group-title="LIGAS SUDAMERICA",LAT:/  Directv Sports +  PER●
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1b2ba200-14ac-4486-a873-19b58e86a518.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  Directv Sports + ARG ● @ MAS PLUS" tvg-logo="https://immaa.xyz/ARGdireectvvvplus.png" group-title="LIGAS SUDAMERICA",LAT:/  Directv Sports + ARG ● @ MAS PLUS
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/c5f113c7-0f24-4b01-8dcc-114c44445d65.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/ Directv Sports 1 ARG HD ● @" tvg-logo="https://immaa.xyz/ARGdditvvag.png" group-title="LIGAS SUDAMERICA",LAT:/ Directv Sports 1 ARG HD ● @
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e8903016-8c8f-4f62-a9d4-b0f1f58a2fb4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT:/  Directv Sports 2 ARG HD ● @" tvg-logo="https://i.imgur.com/Wj7nA0M.png" group-title="LIGAS SUDAMERICA",LAT:/  Directv Sports 2 ARG HD ● @
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/456c0fe3-bca5-4782-965d-6f21d1341a5c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT | ESPN 1 SUR LATINO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRo0ADSBQMZ0Kd4Knaol7aNQjhcomUqVVXdA&usqp=CAU" group-title="LIGAS SUDAMERICA",LAT | ESPN 1 SUR LATINO
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/86f445d8-b9b7-4b09-a9a7-263a1f2563e8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT / ESPN 1  HD  Arg● @" tvg-logo="https://immaa.xyz/LAesspnnn1.png" group-title="LIGAS SUDAMERICA",LAT / ESPN 1  HD  Arg● @
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/819aab9d-1000-4a92-970d-d99d966a5b19.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT / ESPN 2  HD Arg●" tvg-logo="https://immaa.xyz/LAesppn2.png" group-title="LIGAS SUDAMERICA",LAT / ESPN 2  HD Arg●
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/0ac7275e-7c28-45ab-9a66-390bd535fcda.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT | ESPN 4" tvg-logo="https://www.foromedios.com/uploads/monthly_2021_11/large.1522528359_ESPN4_Blanco.png.3f18914aea85b43cdf4ff9e6624ede26.png" group-title="LIGAS SUDAMERICA",LAT | ESPN 4
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/f91ce2bd-9c12-450c-86d2-c571d2f1d6cc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT / ESPN 3 SUR ● arg/ch/col" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjksmTEoWRkFOGnRfCe07I1Sdmhtbtat-rOjjuRloM1Vr8ZpcCRJq98ixAjERK5iys1nly3IGd3Ix2kvHo07g8KnpwKUrhRU0rXYRqkvHeoWtlT-YjrRhkC48tQdZfI5-bYwG_CgoOKAAoI9xgIEj4xpALV5pIMl6vPzuMXnJCZW3-tVKLHOmj8kCUj/s1600/DEPORTEespn%203%20sur.jpg" group-title="LIGAS SUDAMERICA",LAT / ESPN 3 SUR ● arg/ch/col
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e246f1ff-fca1-42e0-9277-1e79153cc09a.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT | FOX SPORTS 1  @" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="LIGAS SUDAMERICA",LAT | FOX SPORTS 1  @
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/af3d7191-4d28-4ddc-9280-be7e56a36e8d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT | FOX SPORTS 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="LIGAS SUDAMERICA",LAT | FOX SPORTS 2
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/cd6a01dd-1598-4a2f-b40c-f3cfc2a23497.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT | FOX SPORTS 2 chile" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="LIGAS SUDAMERICA",LAT | FOX SPORTS 2 chile
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/c06405ba-626d-4233-afe6-a9cb3670640f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="ARG҂ FOX SPORTS 3 HD ● @" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAuFL8dqu1XZdBRukPLK0YQxuaU6T_igqJw&usqp=CAU" group-title="LIGAS SUDAMERICA",ARG҂ FOX SPORTS 3 HD ● @
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/c89dbeb1-d29b-4fd2-bf19-fc5eaee25c9e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT | FOX SPORTS PREMIUM" tvg-logo="https://1.bp.blogspot.com/-bhtO7GVOw3k/X2QH8tp0RQI/AAAAAAAABU0/QyJnQgmqjxsZobT_cvMPJ9FwthC8UAvuQCLcBGAsYHQ/w200-h200/05%2BFox%2BSports%2BPremium%2Barg.png" group-title="LIGAS SUDAMERICA",LAT | FOX SPORTS PREMIUM
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e1730965-187a-488b-8330-62955d7b0aa6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT | ESPN PREMIUM HD Arg ● @ (Fox Sports 1)" tvg-logo="https://i.imgur.com/2PVyQHc.png" group-title="LIGAS SUDAMERICA",LAT | ESPN PREMIUM HD Arg ● @ (Fox Sports 1)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/9b3e9a05-acf1-4cea-bef4-30edcdd4a456.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT | DIRECTV SPORTS AR  HD" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="LIGAS SUDAMERICA",LAT | DIRECTV SPORTS AR  HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/f64c1021-3a06-4623-bf49-0b00440b2aa6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT | DIRECTV SPORTS 1 EC  HD @" tvg-logo="https://immaa.xyz/ECdirctvv1.png" group-title="LIGAS SUDAMERICA",LAT | DIRECTV SPORTS 1 EC  HD @
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1aae7ca3-4c8a-4b23-b2c3-2e17598cabb6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT | DIRECTV SPORTS 2  SD" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="LIGAS SUDAMERICA",LAT | DIRECTV SPORTS 2  SD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/56ca8d00-5026-498e-98d9-71809d6703ee.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT | DIRECTV SPORTS 2  HD" tvg-logo="https://1.bp.blogspot.com/-CE1czydcuuw/XazFPWYBLvI/AAAAAAAAAlY/R5o8SlM2tGo-vOu_SzNXEIZsiTY4zrPpACLcBGAsYHQ/s200/19.png" group-title="LIGAS SUDAMERICA",LAT | DIRECTV SPORTS 2  HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/a5e8d9a9-75d3-412c-85e2-a1ebd5c02f20.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT | WIN SPORTS +  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNGOFuHiTeL2e_ycDR_0CKEK2gr71AiQBjYw&usqp=CAU" group-title="LIGAS SUDAMERICA",LAT | WIN SPORTS +  HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/f97889ae-f4b9-4f5c-97d5-42dbdf7d6516.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT | WIN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNGOFuHiTeL2e_ycDR_0CKEK2gr71AiQBjYw&usqp=CAU" group-title="LIGAS SUDAMERICA",LAT | WIN SPORTS
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/3a6f68c5-436d-45b3-b6b7-f07abd8e15b0.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT | TYC SPORTS LOCAL HD" tvg-logo="https://immaa.xyz/ARGttycccccc.png" group-title="LIGAS SUDAMERICA",LAT | TYC SPORTS LOCAL HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/fb3d65ac-47b3-4375-9602-af61136ff651.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT | TNT ESTADIO" tvg-logo="https://i.imgur.com/iUanbod.png" group-title="LIGAS SUDAMERICA",LAT | TNT ESTADIO
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/597551e3-247a-4bc7-8af5-696e774d244b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT | TNT SPORTS  HD" tvg-logo="https://1.bp.blogspot.com/-NlVUFpRAN1I/X2QIL1NCoaI/AAAAAAAABW8/YUkz7Y0eSY8nXv8XwY88nBSfgcltHwZ2QCLcBGAsYHQ/w200-h200/39%2BTNT%2BSport.png" group-title="LIGAS SUDAMERICA",LAT | TNT SPORTS  HD
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/d191ac53-8e92-4597-8dd2-12cf1c42e96d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="LAT/ TNT SPORTS 2  CHILE● @" tvg-logo="https://immaa.xyz/CHtnnt0002.png" group-title="LIGAS SUDAMERICA",LAT/ TNT SPORTS 2  CHILE● @
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/dffc68f4-4e5e-419e-a152-acf87f7e0fa5.m3u
+#EXTINF:-1 tvg-id="" tvg-name="//TIGO SPORTS 1 // (GUAT)" tvg-logo="https://i.imgur.com/1FRGBTe.png" group-title="LIGAS SUDAMERICA",//TIGO SPORTS 1 // (GUAT)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4d78aeda-c5a2-4a6c-a824-784c28f75091.m3u
+#EXTINF:-1 tvg-id="" tvg-name="//TIGO SPORT 2 // + (GUAT)" tvg-logo="https://i.imgur.com/1FRGBTe.png" group-title="LIGAS SUDAMERICA",//TIGO SPORT 2 // + (GUAT)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/045b9f10-c29b-48bf-8da5-8c4363c16b10.m3u
+#EXTINF:-1 tvg-id="" tvg-name="//TIGO SPORT  1 //   (BOL) ●" tvg-logo="https://1.bp.blogspot.com/-Qq6NeQfQhPA/X3O4qcNIfWI/AAAAAAAABrM/VvZtFKBO_SwfQ8olMUI4i7xkVFKk74wrACLcBGAsYHQ/w200-h200/Canal%2Btigo%2Bsport%2BParaguay.png" group-title="LIGAS SUDAMERICA",//TIGO SPORT  1 //   (BOL) ●
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/88031780-a884-4983-b532-fffa3a04c162.m3u
+#EXTINF:-1 tvg-id="" tvg-name="//TIGO SPORT 2 // (BOL) ●" tvg-logo="https://1.bp.blogspot.com/-Qq6NeQfQhPA/X3O4qcNIfWI/AAAAAAAABrM/VvZtFKBO_SwfQ8olMUI4i7xkVFKk74wrACLcBGAsYHQ/w200-h200/Canal%2Btigo%2Bsport%2BParaguay.png" group-title="LIGAS SUDAMERICA",//TIGO SPORT 2 // (BOL) ●
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/928708b4-759b-486b-bff8-969efb089070.m3u
+#EXTINF:-1 tvg-id="" tvg-name="xXx  PENTHOUSE QUICKIES ●" tvg-logo="https://i.imgur.com/c7RqdLc.png" group-title="XXX CODE :  334455",xXx  PENTHOUSE QUICKIES ●
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/970ab7ef-6e9d-4c4e-822e-85d693ef99c4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="xXx PRIVATE TV (18+)" tvg-logo="https://i.imgur.com/nMx7Ewy.png" group-title="XXX CODE :  334455",xXx PRIVATE TV (18+)
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/5c795d4c-fcce-4ea4-bd98-a913aed3e069.m3u
+#EXTINF:-1 tvg-id="" tvg-name="xXx MamacitaZ Latina" tvg-logo="https://i.imgur.com/KSkja2K.png" group-title="XXX CODE :  334455",xXx MamacitaZ Latina
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/939db49e-b7cb-4ad3-8995-900711fc8660.m3u
+#EXTINF:-1 tvg-id="" tvg-name="STARS PornPlus: ANGELA WHITE ●" tvg-logo="https://i.imgur.com/Hp5ZrlF.png" group-title="XXX CODE :  334455",STARS PornPlus: ANGELA WHITE ●
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/16c0e17d-8033-4a65-b45b-40f1c491585b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="PORNPlus: SIS LOVES ME" tvg-logo="https://i.imgur.com/3jehC8t.png" group-title="XXX CODE :  334455",PORNPlus: SIS LOVES ME
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/5f67f916-7c4b-4388-b5b2-9a8172f81dab.m3u
+#EXTINF:-1 tvg-id="" tvg-name="PORNPlus: SWEET SINNER ●" tvg-logo="https://i.imgur.com/4CXHhSf.png" group-title="XXX CODE :  334455",PORNPlus: SWEET SINNER ●
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6b048bda-4d8c-462c-b19f-9b31a2e59258.m3u
+#EXTINF:-1 tvg-id="" tvg-name="PORNPlus: LUXURE" tvg-logo="https://i.imgur.com/YKKMSm8.png" group-title="XXX CODE :  334455",PORNPlus: LUXURE
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/4c07328e-6fca-4f28-bc48-2dd01b3fc8e8.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Live Cams" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Live Cams
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/99c46a83-d50e-4f4e-be55-cf6031ba97df.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com MILF" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com MILF
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/088f26eb-65ab-4bb0-8039-ace04f2ec8d3.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Big Dick" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Big Dick
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/3ba9a3a1-0227-4ac5-aedc-aa115344836d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Big Tits" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Big Tits
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/3fcc3804-848f-40ae-8b6c-546ffe07ac2f.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Fetish" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Fetish
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/e7f52b59-777c-49dd-be4d-625e8dcdc6ad.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Pornstar" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Pornstar
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/5313e065-4ebb-4fae-b632-28ab7f67589e.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Big Ass" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Big Ass
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/b0fd4a97-ec7a-4ba6-b686-d81e1d8c66cf.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Interracial" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Interracial
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1da2169a-7207-480d-89dd-f3bd2631e7be.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Latina" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Latina
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/70c058ed-3235-4fe1-ac34-0b5396b18e22.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com POV" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com POV
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/050f9a91-9216-4153-bd35-7b840106e104.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Blowjob" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Blowjob
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1cdf0471-cee8-4215-b2eb-b74b34ada12c.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Teen" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Teen
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/63a753e9-0d13-4b24-92f2-e3d7f07e94bb.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Hardcore" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Hardcore
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/b0390e59-f5de-4627-b658-143527887d21.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Cuckold" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Cuckold
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/5cf75ad5-cb3d-4dca-80f1-0f4b027c0abc.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Threesome" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Threesome
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/7a5f6a69-c1a1-40ec-88ba-a3167b9e3df6.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Russian" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Russian
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/1b7a083d-5d54-4772-b3e1-6b806ddcabf9.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Lesbian" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Lesbian
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/6b5548f1-3fe4-4e1f-8e8e-11f3ec73eb29.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Rough" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Rough
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/9a2692b8-e247-448a-b464-5234d62a220d.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Gangbang" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Gangbang
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/ecbffbcc-9ff2-40b6-8733-d0953801bea2.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Anal" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Anal
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/2ea07c2d-c19d-4693-87bb-d742e90c5d9b.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Compilation" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Compilation
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/3ff8546f-6898-4819-be3d-ae97e02d5426.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Brunette" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Brunette
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/a1901db8-4d29-4a83-89b4-7326f17939ca.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Blonde" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Blonde
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/93b75687-e66e-418f-a952-21b2cef7c1b4.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Gay" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Gay
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/81445ada-9554-4c02-ad17-4752e4b36865.m3u
+#EXTINF:-1 tvg-id="" tvg-name="AdultM3u.com Asian" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX CODE :  334455",AdultM3u.com Asian
+http://zeritotv22.ddns.net:8089/live/jose2/jose2/a98667ad-3ad2-4c36-b5a5-21e01fa5490f.m3u
